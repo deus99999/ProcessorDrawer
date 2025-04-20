@@ -58,5 +58,3 @@ ProcessorDrawer/
 ## 📝 Автор
 
 - [@deus99999](https://github.com/deus99999)
-
-Проект создан в учебных целях. Добро пожаловать в pull requests и идеи по улучшению!
